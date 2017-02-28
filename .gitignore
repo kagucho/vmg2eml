@@ -1,0 +1,10 @@
+.clang/
+.codelite/
+.vscode/
+build/
+build-*/
+cmake-build-*/
+vmg2eml/CMakeFiles/
+vmg2eml/CMakeCache.txt
+vmg2eml/cmake_install.cmake
+vmg2eml/compile_commands.json
